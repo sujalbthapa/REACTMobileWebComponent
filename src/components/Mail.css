@@ -1,0 +1,56 @@
+.notiIcn {
+  position: absolute;
+  right: 10px;
+  top: 28px;
+  font-size: 2.4rem;
+  color: #0e1e65;
+}
+a {
+  text-decoration: none;
+}
+a,
+a::before,
+a::after,
+a:active {
+  color: #395df5;
+}
+.notiMainContain {
+  position: relative;
+  padding: 10px;
+  box-shadow: -1px -1px 20px rgba(0, 0, 0, 0.156),
+    inset -5px -5px 10px rgba(255, 255, 255, 0.976);
+  border-radius: 5px;
+}
+.notiUsrPro {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.notiUsrImg {
+  border-radius: 50%;
+  width: 13vw;
+  height: 13vw;
+  border: 1px solid aliceblue;
+  margin-right: 20px;
+}
+.notiUsrImg img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.notiMsgTxt p {
+  font-weight: 400;
+}
+.notiUsrNam p {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.notiUsrNam span {
+  color: gray;
+  font-size: 0.72rem;
+  font-weight: 300;
+}
+.notiUsrNam span a {
+  font-size: 0.95rem;
+  font-weight: 400;
+}
