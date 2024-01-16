@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="login">
+        <form action="http://localhost:3000/login" method="post">
+            <input type="radio" name="role" id="employee" value="employee"><label for="employee">Employee</label>
+            <input type="radio" name="role" id="client" value="client"><label for="client">Client</label>
+            <input type="text" name="email" id="email">
+            <input type="password" name="password" id="password">
+            <input type="submit" value="Login">
+        </form>
+    </div>
+    <br><br><br>
+    
+    <div id="signup">
+        <form action="http://localhost:3000/signup" method="post">
+            Role :
+            <input type="checkbox" name="role" id="employee" value="employee">Employee
+            <input type="checkbox" name="role" id="client" value="client" >Client
+            <br>
+            UserName<input type="text" name="username" id="username">
+            Email<input type="text" name="email" id="email">
+            Password<input type="password" name="password" id="password">
+            <input type="submit" value="Signup">
+        </form>
+    </div>
+</body>
+</html>
