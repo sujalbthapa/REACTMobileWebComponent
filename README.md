@@ -5,8 +5,9 @@ Welcome to the Knowledge Management System GitHub repository! This project aims 
 
 **User Scenarios**
 
-<img src="[your-image-url](https://github.com/sujalbthapa/REACTMobileWebComponent/assets/76049433/649cfe27-6ece-40a5-9407-2cf4bab04e1e)" alt="Registration1" width="200" height="800">
-<img src="[your-image-url](https://github.com/sujalbthapa/REACTMobileWebComponent/assets/76049433/cef3c7c1-8b08-4262-9d64-00f4552c5e7f)" alt="Registration2" width="200" height="800">
+![Registration1]([your-image-url](https://github.com/sujalbthapa/REACTMobileWebComponent/assets/76049433/649cfe27-6ece-40a5-9407-2cf4bab04e1e) | width=300)
+![Registration2]([your-image-url](https://github.com/sujalbthapa/REACTMobileWebComponent/assets/76049433/cef3c7c1-8b08-4262-9d64-00f4552c5e7f) | width=300)
+
 
 
 **User Registration**
