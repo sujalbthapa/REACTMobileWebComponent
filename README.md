@@ -33,7 +33,7 @@ Employees can contribute to internal communication by launching the application 
 Both employees and clients can efficiently search project emails. By loading the search email page, users can search emails based on date and subjects. The system responds with a list of searched emails. In case of non-existent emails, the system displays an informative message.
 
 ![image](https://github.com/sujalbthapa/REACTMobileWebComponent/assets/76049433/7c513a12-fcd4-4aa2-b23b-4f715eb1828b)
-
+<img src="(https://github.com/sujalbthapa/REACTMobileWebComponent/assets/76049433/7c513a12-fcd4-4aa2-b23b-4f715eb1828b)" width="100" height="100">
 **Create User Profile**
 Users, including employees and clients, can create personalized profiles by launching the application, clicking the create user profile button, and entering relevant details. The system then creates the user profile.
 
